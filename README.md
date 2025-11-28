@@ -1,13 +1,13 @@
 ## Hi there 👋
-📍 Vancouver BC, Canada
-🎓 Simon Fraser University (SFU)
-🦀 Proud rustacean
+- 📍 Vancouver BC, Canada
+- 🎓 Simon Fraser University (SFU)
+- 🦀 Proud rustacean
 
-### About: 
+### 💾 About: 
 I'm Tavin Hartwood, a Computer Science student studying at Simon Fraser University in BC, Canada. 
 I love the craft of code and take great pride in every line that I produce. 
 
-### Current projects: 
+### 💻 Current projects: 
 - A compiler written in Rust for my own C-like programming language
 - An 8-bit computer using ICs and breadboards
 
