@@ -1,4 +1,9 @@
 ## Hi there 👋
+📍 Vancouver BC, Canada
+🎓 Simon Fraser University (SFU)
+🦀 Proud rustacean
+
+### About: 
 I'm Tavin Hartwood, a Computer Science student studying at Simon Fraser University in BC, Canada. 
 I love the craft of code and take great pride in every line that I produce. 
 
