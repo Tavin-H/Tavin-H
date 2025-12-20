@@ -10,6 +10,7 @@ I love the craft of code and take great pride in every line that I produce.
 ### 💻 Current projects: 
 - A compiler written in Rust for my own C-like programming language
 - An 8-bit computer using ICs and breadboards
+- Vulkan graphics engine in Rust
 
 ### 📖 Currently reading: 
 - "Structure and Interpretation of Computer Programs" - Harold Abelson,
