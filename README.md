@@ -8,7 +8,7 @@ I'm Tavin Hartwood, a Computer Science student studying at Simon Fraser Universi
 I love the craft of code and take great pride in every line that I produce. 
 
 ### 💻 Current projects: 
-- A compiler written in Rust for my own C-like programming language
+- A compiler written in Rust for my own C-like programming language called BeeScript
 - An 8-bit computer using ICs and breadboards
 - Vulkan graphics engine in Rust
 
