@@ -1,4 +1,4 @@
-<img width="1600" height="600" alt="GitBanner" src="https://github.com/user-attachments/assets/3447e2e7-ea7d-4da0-abfd-a7697cf41bf7" />
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Location-Vancouver%20BC%2C%20Canada-white?style=for-the-badge&labelColor=2d3146&color=blue" />
